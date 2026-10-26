@@ -8,7 +8,13 @@
 
 <meta name="robots" content="index, follow">
 </head>
-<meta name="google-site-verification" content="IQxC7_U8PMXL4a7Bu6c07Ib8nHUaoS8Ccr82evIPL40" />![Uploading image.png…]()
+
+<meta name="robots" content="index, follow">
+
+  <meta name="google-site-verification" content="IQxC7_U8PMXL4a7Bu6c07Ib8nHUaoS8Ccr82evIPL40" />
+
+</head>
+
 
 <body>
 
