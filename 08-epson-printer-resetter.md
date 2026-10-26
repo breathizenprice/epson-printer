@@ -1,9 +1,5 @@
 # Epson Printer Resetter: Warning Lights, Counters and Safer Fixes
 
-> **Primary keyword:** epson printer resetter  
-> **Category:** Epson printer support and troubleshooting  
-> **Editorial note:** Independent informational guide; not affiliated with Epson.
-
 [**Ask Our Experts — Printer Troubleshooting Help**](https://62solutions.com/)
 
 ## Overview
@@ -91,7 +87,3 @@ For **epson printer resetter**, the most useful next step is to identify the exa
 [**Ask Our Experts — Printer Troubleshooting Help**](https://62solutions.com/)
 
 ## References and transparency
-
-- Official Epson support: https://epson.com/Support/sl/s
-- Contact and download availability vary by country and printer model.
-- This is independent educational content, not an official Epson support channel.
