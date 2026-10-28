@@ -104,7 +104,7 @@ Copy the message or photograph the indicator pattern. Note when the error appear
 
 ### Check official product resources
 
-Use the Epson product support page for your exact model. Start with <a href="https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-2850/s/SPT\_C11CJ63202">manufacturer support</a> and confirm the operating system, manuals, and downloads listed for your region.
+Use the Epson product support page for your exact model. Start with <a >manufacturer support</a> and confirm the operating system, manuals, and downloads listed for your region.
 
 ### Save important settings
 
@@ -220,4 +220,3 @@ For epson et-2850, the most dependable next step is to match the action to the a
 
 Independent informational article. Epson is a trademark of its respective owner. The linked assistance site is not represented as an official Epson service.
 
-Official resources: [Epson product support](https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-2850/s/SPT_C11CJ63202) · [Epson firmware guidance](https://epson.com/support/updating-your-printers-firmware-using-epson-software-updater)
