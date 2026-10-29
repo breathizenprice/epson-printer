@@ -166,7 +166,8 @@ Keep a note of the driver version, download source, and installation date. This 
 
 Windows 10 may discover a printer automatically, but the manufacturer driver can provide model-specific controls and maintenance features. Start with a verified model number, the operating system, and the exact symptom. Use Epson’s official regional support pages for compatible downloads and authorized service information. If troubleshooting continues, record the steps already attempted so the next diagnosis is targeted and efficient.
 
-For readers researching **epson printer drivers for windows 10**, a safe process is more valuable than an unverified quick fix. Verify the source, protect your computer, and test one function at a time.
+For readers researching <a href="https://us-epson.com/" target="_blank" rel="noopener noreferrer"> epson printer drivers for windows 10,</a>
+, a safe process is more valuable than an unverified quick fix. Verify the source, protect your computer, and test one function at a time.
 
 ## Frequently Asked Questions
 
