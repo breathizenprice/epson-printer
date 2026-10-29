@@ -155,7 +155,8 @@ Keep a note of the driver version, download source, and installation date. This 
 
 ## Key Takeaways
 
-- The search **epson contact number** should be evaluated against the exact model and symptom.
+- The search <a href="https://us-epson.com/" target="_blank" rel="noopener noreferrer">  epson contact number </a>
+ should be evaluated against the exact model and symptom.
 - Use the official Epson support website for your region to confirm a current contact method.
 - Official manufacturer pages are the safest source for supported drivers and utilities.
 - Printer, scanner, and maintenance problems require different troubleshooting paths.
