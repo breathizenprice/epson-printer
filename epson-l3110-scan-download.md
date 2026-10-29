@@ -166,7 +166,8 @@ Keep a note of the driver version, download source, and installation date. This 
 
 The Epson EcoTank L3110 has a flatbed scanner and a USB connection. Scanning from Windows usually requires the appropriate Epson Scan software. Start with a verified model number, the operating system, and the exact symptom. Use Epson’s official regional support pages for compatible downloads and authorized service information. If troubleshooting continues, record the steps already attempted so the next diagnosis is targeted and efficient.
 
-For readers researching **epson l3110 scan download**, a safe process is more valuable than an unverified quick fix. Verify the source, protect your computer, and test one function at a time.
+For readers researching <a href="https://us-epson.com/" target="_blank" rel="noopener noreferrer"> epson l3110 scan download</a>
+, a safe process is more valuable than an unverified quick fix. Verify the source, protect your computer, and test one function at a time.
 
 ## Frequently Asked Questions
 
