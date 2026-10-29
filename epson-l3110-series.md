@@ -155,7 +155,8 @@ Keep a note of the driver version, download source, and installation date. This 
 
 ## Key Takeaways
 
-- The search **epson l3110 series** should be evaluated against the exact model and symptom.
+- The search <a href="https://us-epson.com/" target="_blank" rel="noopener noreferrer"> epson l3110 series</a>
+ should be evaluated against the exact model and symptom.
 - Use the L3110 series support page and connect USB when the installer requests it.
 - Official manufacturer pages are the safest source for supported drivers and utilities.
 - Printer, scanner, and maintenance problems require different troubleshooting paths.
